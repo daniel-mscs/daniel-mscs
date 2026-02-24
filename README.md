@@ -7,11 +7,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
-
-<p align="center">
-  <img src="https://tenor.com/view/hello-world-animation-hello-coding-gif-1378121840400141809" width="300">
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
