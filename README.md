@@ -42,7 +42,8 @@ Projeto em Java focado na prática de orientação a objetos, organização de c
 
 - Desenvolvimento de APIs REST com Spring Boot  
 - Estruturas de Dados  
-- Fundamentos de Arquitetura de Software  
+- Fundamentos de Arquitetura de Software
+- Engenharia de software  
 
 ---
 
