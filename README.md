@@ -1,7 +1,9 @@
 <h1 align="center">Olá, eu sou o Daniel 👋</h1>
+
 <p align="center">
   Estudante de Engenharia de Software | Desenvolvimento Full Stack (Java & React)
 </p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
@@ -34,8 +36,9 @@
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=daniel-mscs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mscs&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=daniel-mscs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mscs&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
@@ -44,8 +47,7 @@
 
 **DayForge — Super App de Saúde, Performance e Finanças**  
 PWA full stack desenvolvido do zero com React + Vite + Supabase + Vercel.  
-Unifica treinos, hábitos, dieta, macros, peso, água, passos, suplementos, rotina e finanças pessoais em uma única plataforma.
-
+Unifica treinos, hábitos, dieta, macros, peso, água, passos, suplementos, rotina e finanças pessoais em uma única plataforma.  
 Principais funcionalidades: treinos com timer e cardio, gráficos de evolução, plano alimentar com sugestão automática, controle financeiro (SmartPocket), sistema RPG com XP e ranking, streak diário e PWA instalável.
 
 [![Acessar App](https://img.shields.io/badge/Acessar_App-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://dayforge-web.vercel.app)
