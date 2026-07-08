@@ -36,7 +36,9 @@
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-mscs&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=daniel-mscs&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel-mscs&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
