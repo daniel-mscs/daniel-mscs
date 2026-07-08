@@ -32,6 +32,8 @@ Estudante de Engenharia de Software focado em desenvolvimento Full Stack com Rea
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniel-mscs&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniel-mscs&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniel-mscs&theme=tokyonight" height="150"/>
 </p>
 
 ---
