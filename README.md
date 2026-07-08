@@ -1,25 +1,20 @@
 <h1 align="center">Olá, eu sou o Daniel 👋</h1>
-
 <p align="center">
-  Estudante de Engenharia de Software | Desenvolvimento Full Stack (Java & React)
+  Estudante de Engenharia de Software · Full Stack (React + Java)
 </p>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
 </p>
 
 ---
 
 ## Sobre mim
 
-🎓 Estudante de Engenharia de Software  
-💻 Focado em desenvolvimento Full Stack com React + Java/Spring Boot  
-🚀 Buscando minha primeira oportunidade de estágio na área  
-📚 Evoluindo em APIs REST, autenticação, RLS, PWA e arquitetura em camadas
+Estudante de Engenharia de Software focado em desenvolvimento Full Stack com React e Java/Spring Boot. Buscando minha primeira oportunidade de estágio na área e evoluindo em APIs REST, autenticação, RLS, PWA e arquitetura em camadas.
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,24 +28,21 @@
 
 ---
 
-## 📊 Minhas Estatísticas
+## Estatísticas
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=daniel-mscs&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=daniel-mscs&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel-mscs&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mscs&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 **DayForge — Super App de Saúde, Performance e Finanças**  
-PWA full stack desenvolvido do zero com React + Vite + Supabase + Vercel.  
-Unifica treinos, hábitos, dieta, macros, peso, água, passos, suplementos, rotina e finanças pessoais em uma única plataforma.  
-Principais funcionalidades: treinos com timer e cardio, gráficos de evolução, plano alimentar com sugestão automática, controle financeiro (SmartPocket), sistema RPG com XP e ranking, streak diário e PWA instalável.
+PWA full stack desenvolvido do zero com React + Vite + Supabase + Vercel. Unifica treinos, hábitos, dieta, macros, peso, água, passos, suplementos, rotina e finanças pessoais em uma única plataforma. Funcionalidades: treinos com timer e cardio, gráficos de evolução, plano alimentar com sugestão automática, controle financeiro (SmartPocket), sistema RPG com XP e ranking, streak diário e PWA instalável.
 
-[![Acessar App](https://img.shields.io/badge/Acessar_App-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://dayforge-web.vercel.app)
+[![App](https://img.shields.io/badge/Acessar_App-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://dayforge-web.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniel-mscs/dayforge)
 
 ---
@@ -69,7 +61,7 @@ Back-end em Java/Spring Boot para gestão de treinos. Base para futura integraç
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 - React avançado, PWA e Service Workers
 - Supabase: RLS, Edge Functions e autenticação OAuth
@@ -78,7 +70,7 @@ Back-end em Java/Spring Boot para gestão de treinos. Base para futura integraç
 
 ---
 
-## 🤝 Vamos nos conectar?
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-mscs/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniel-mscs)
