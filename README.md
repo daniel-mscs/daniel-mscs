@@ -28,8 +28,6 @@ Estudante de Engenharia de Software focado em desenvolvimento Full Stack com Rea
 
 ---
 
----
-
 ## Projetos em destaque
 
 **DayForge — Super App de Saúde, Performance e Finanças**  
